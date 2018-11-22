@@ -12,11 +12,7 @@ public class GirlApplicationTests {
 	@Test
 	public void contextLoads() {
 	System.out.print("13213213");
-	//ABCDM
-	//ABCDE
-	//1321321321
-	//4561
-	//789
+
 	}
 
 }
