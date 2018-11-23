@@ -7,12 +7,12 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class GirlApplicationTests {
+public class GirlApplicationTestsNew {
 
 	@Test
 	public void contextLoads() {
-	System.out.print("13213213");
-
+		System.out.print("13213213");
+		//一二三是五
 	}
 
 }
