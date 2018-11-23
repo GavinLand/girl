@@ -16,7 +16,6 @@ public class GirlApplicationTests {
 	System.out.print("13213213");
 	System.out.print("13213213");
 	System.out.print("13213213");
-	System.out.print("13213213");
 
 	}
 
