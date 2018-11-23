@@ -13,6 +13,8 @@ public class GirlApplicationTests {
 	public void contextLoads() {
 	System.out.print("13213213");
 
+	System.out.print("13213213");
+
 	}
 
 }
