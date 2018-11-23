@@ -6,6 +6,7 @@ package com.red.testMain;
 public class MainFor {
     public String test(){
         //DEFABC
+
         return "";
     }
 	
