@@ -5,7 +5,7 @@ package com.red.testMain;
  */
 public class MainFor {
     public String test(){
-        //12321312
+        //DEF
         return "";
     }
 	
